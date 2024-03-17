@@ -1,0 +1,8 @@
+version: 2
+
+models:
+  - name: agg_customer_orders
+    description: An intermediate transformation table containing agg info from customer orders
+    docs:
+      show: true
+      node_color: gray

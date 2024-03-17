@@ -1,0 +1,8 @@
+version: 2
+
+snapshots:
+  - name: snp_orders
+    description: Snapshot table implementing scd2 for orders replication table
+    docs:
+      show: true
+      node_color: pink

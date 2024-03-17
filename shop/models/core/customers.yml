@@ -1,0 +1,7 @@
+version: 2
+
+models:
+  - name: customers
+    description: Casted and clean table from customers jaffleshop replication table
+    docs:
+      show: true
